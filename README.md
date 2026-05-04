@@ -9,7 +9,7 @@ Dataset:Synthetic Clinical Dataset
 - Dataset source: Kaggle (https://www.kaggle.com/datasets/uom190346a/synthetic-clinical-tabular-dataset)
 
 To Run
-Open the notebooks in order
+open the notebooks in order
 Run each notebook step by step
 Outputs (tables + figures) will be generated automatically
 
