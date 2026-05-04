@@ -9,7 +9,7 @@ Dataset:Synthetic Clinical Dataset
 
 To Run:
 Open the notebooks in order
-Run each notebook step by step
+Run each notebook step by step,
 Outputs (tables + figures) will be generated automatically
 
 Models Used:
