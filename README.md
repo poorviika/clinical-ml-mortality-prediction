@@ -1,4 +1,4 @@
-Clinical ML Mortality Prediction Project
+Clinical ML Mortality Prediction
 
 This project analyzes a clinical dataset to predict patient mortality using multiple machine learning models. The goal is to compare models, evaluate robustness, and select the most practical model for real-world use.
 
