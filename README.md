@@ -74,5 +74,3 @@ Logistic Regression is selected as the final model due to:
 - Good interpretability
 - Stability under noise and missing data
 
-Author
-Poorvika Sreenivasa
