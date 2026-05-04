@@ -7,8 +7,8 @@ Dataset:Synthetic Clinical Dataset
 - Target variable: mortality (0/1 classification)
 - Dataset source: Kaggle (https://www.kaggle.com/datasets/uom190346a/synthetic-clinical-tabular-dataset)
 
-To Run
-open the notebooks in order
+To Run:
+Open the notebooks in order
 Run each notebook step by step
 Outputs (tables + figures) will be generated automatically
 
