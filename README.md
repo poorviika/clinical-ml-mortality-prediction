@@ -38,36 +38,6 @@ Requirements
 Install required libraries:
 - pip install pandas numpy matplotlib scikit-learn xgboost
 
-Project Structure
-	clinical-ml-project/
-	│
-	├── notebooks/
-	│   ├── rq-01.ipynb
-	│   ├── rq-02.ipynb
-	│   ├── rq-03.ipynb
-	│   ├── rq-04.ipynb
-	│   ├── rq-05.ipynb
-	│   ├── rq-06.ipynb
-	│   ├── rq-07.ipynb
-	│
-	├── results/
-	│   ├── rq1_table.csv
-	│   ├── rq2_table.csv
-	│   ├── rq3_table.csv
-	│   ├── rq4_top_features.csv
-	│   ├── rq5_ranking.csv
-	│   ├── rq6_table.csv	
-	│
-	│   ├── rq1_bar_chart.pdf
-	│   ├── rq2_roc_curve.pdf
-	│   ├── rq3_bar_chart.pdf
-	│   ├── rq4_feature_importance.pdf
-	│   ├── rq5_ranking_plot.pdf
-	│   ├── rq7_final_comparison.pdf
-	│   
-	├── README.md
-	├── requirements.txt
-
 Conclusion
 
 Logistic Regression is selected as the final model due to:
@@ -77,4 +47,5 @@ Logistic Regression is selected as the final model due to:
 - Stability under noise and missing data
 
 Author
+
 Poorvika Sreenivasa
