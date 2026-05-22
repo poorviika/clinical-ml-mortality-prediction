@@ -1,0 +1,6 @@
+Criterion,Logistic Regression,Random Forest,SVM,XGBoost,Preferred Model
+F1 + AUC Performance,"Best F1, good AUC",Lower F1,Comparable F1,"Good accuracy, lower F1",Logistic Regression
+Class Imbalance Handling,class_weight balanced,class_weight balanced,class_weight balanced,scale_pos_weight,Logistic Regression
+Interpretability,High,Medium,Medium-Low,Low (black-box),Logistic Regression
+Robustness,High,High,Medium,High,Logistic Regression
+Computational Cost,Low,Medium,High,High,Logistic Regression
