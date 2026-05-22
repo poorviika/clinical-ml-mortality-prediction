@@ -11,7 +11,6 @@ Dataset:Synthetic Clinical Dataset
 To Run
 Open the notebooks in order:
 	rq-01.ipynb
-	
 	rq-02.ipynb
 	rq-03.ipynb
 	rq-04.ipynb
