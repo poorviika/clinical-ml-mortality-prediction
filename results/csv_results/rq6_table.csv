@@ -1,0 +1,5 @@
+Scenario,Accuracy / MAE,Precision / RMSE,Recall / R²,F1-score / Std Dev
+Standard split,0.04 / -,0.03 / -,0.98 / -,0.05 ± 0.01
+5-fold CV,0.62 / -,- / -,- / -,0.62 ± 0.14
+10% noise added,0.04 / -,0.03 / -,0.98 / -,0.05 ± 0.03
+20% missingness,0.04 / -,0.03 / -,1.00 / -,0.05 ± 0.03
