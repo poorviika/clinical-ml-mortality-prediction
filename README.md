@@ -11,12 +11,14 @@ Dataset:Synthetic Clinical Dataset
 To Run
 Open the notebooks in order:
 	rq-01.ipynb
+	
 	rq-02.ipynb
 	rq-03.ipynb
 	rq-04.ipynb
 	rq-05.ipynb
 	rq-06.ipynb
 	rq-07.ipynb
+
 Run each notebook step by step
 Outputs (tables + figures) will be generated automatically
 
