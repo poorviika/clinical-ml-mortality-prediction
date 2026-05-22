@@ -6,8 +6,8 @@ This project analyzes a clinical dataset to predict patient mortality using mult
 Dataset:Synthetic Clinical Dataset
 - Contains patient health features such as age, BMI, blood pressure, glucose, etc.
 - Target variable: mortality (0/1 classification)
-- Dataset source: Kaggle (
-https://www.kaggle.com/datasets/uom190346a/synthetic-clinical-tabular-dataset)
+- Dataset source: Kaggle (https://www.kaggle.com/datasets/uom190346a/synthetic-clinical-tabular-dataset)
+
 To Run
 Open the notebooks in order:
 	rq-01.ipynb
